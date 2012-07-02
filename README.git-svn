@@ -1,0 +1,6 @@
+To sync from the upstream SVN repo, do:
+    git svn rebase
+
+You may need to do the following first:
+    git config --add svn-remote.svn.fetch :refs/remotes/git-svn
+    git config --add svn-remote.svn.url http://dompdf.googlecode.com/svn/trunk
