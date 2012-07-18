@@ -1,7 +1,3 @@
-Courier.afm.php
 dompdf_font_family_cache.dist.php
-Helvetica.afm.php
-Helvetica-Bold.afm.php
-Times-Italic.afm.php
-Times-Roman.afm.php
+*.afm.php
 log.htm
